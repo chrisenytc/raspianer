@@ -1,0 +1,10 @@
+{
+    "name": "raspianer",
+    "description": "raspianer: A tool to install operational system images on Raspberry Pi with OSX",
+    "version": "0.1.0",
+    "url": "https://github.com/chrisenytc/raspianer",
+    "options": {
+        "outdir": "./docs",
+        "paths": "./lib"
+    }
+}
